@@ -1,0 +1,4 @@
+creation_rules:
+  - path_regex: 'environments[\\/].*\.(env|ya?ml)$'
+    age:
+      - "age1r73erv5va7sxgmt6cxg93eu75kt8zzwucr0waaq4sw7a29h6u4wqaefhhh"
